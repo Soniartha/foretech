@@ -1,3 +1,4 @@
 1. Make HTML webmap based on Garut Project
 2. Make HTML front end web developer
 3. Make domain and host with github.io
+4. Membuat rencana dalam computer vision untuk pengenalan bentuk tumbuhan
